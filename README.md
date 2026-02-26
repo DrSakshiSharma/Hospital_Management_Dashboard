@@ -26,6 +26,4 @@ Patient and disease trend visualization
 State and city-level filtering
 
 
-🚀 Purpose of Project
 
-This dashboard was developed as part of my MBA in Healthcare Analytics learning to build data-driven healthcare insights and strengthen my portfolio in hospital analytics and consulting.
